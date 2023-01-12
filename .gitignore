@@ -9,8 +9,6 @@ BOOT-INF
 
 # gradle
 gradle
-gradlew
-gradlew.bat
 
 # generated
 src/main/generated
