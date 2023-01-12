@@ -7,8 +7,6 @@
 
 BOOT-INF
 
-# gradle
-gradle
 
 # generated
 src/main/generated
